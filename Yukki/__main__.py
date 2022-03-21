@@ -295,6 +295,7 @@ async def begin_command(_, message):
 🔍__**Video Track Information**__
 
 ❇️**Title:** {title}
+
 ⏳**Duration:** {duration} Mins
 👀**Views:** `{views}`
 ⏰**Published Time:** {published}
