@@ -107,3 +107,9 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 - [CallsMusic Team](https://github.com/Callsmusic)
 - [TheHamkerCat](https://github.com/TheHamkerCat)
 - [Charon Baglari](https://github.com/XCBv021)
+
+
+## Deploy on heroku ##
+
+ᴄʟɪᴄᴋ ᴛᴏ ᴅᴇᴘʟᴏʏ sᴄʀᴇᴇɴ ᴏғ ʜᴇʀᴏᴋᴜ ғɪʟʟ ᴀ ᴠᴀʀs ɴᴏᴡ ʙᴏᴛ ʀᴜɴs ʜᴇʀᴏᴋᴜ!
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ThePachirisu/Nobi-Suki-Vc-Player-1"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku"width="220"height="38.45"/></a></p>
